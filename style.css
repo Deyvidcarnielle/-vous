@@ -10,7 +10,7 @@
 main {
     width: 100vw;
     height: 100vh;
-    background: #ffffff;
+    background: #f5f5f5;
     display: flex;
     justify-content: center;
     align-items: center;   
@@ -29,10 +29,10 @@ main {
 .right{
     width: 640px;
     height: 583px;
-    color: #ffffff;
+    background: #ffffff;
     display: flex;
     justify-content: center;
-    align-items: center ;
+    align-items: center;
     
 }
 
